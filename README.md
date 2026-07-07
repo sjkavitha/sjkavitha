@@ -8,7 +8,7 @@
 
 <br/>
 
-![Static Badge](https://img.shields.io/badge/CGPA-8.17%2F10-6f42c1?style=for-the-badge&labelColor=1a1a2e)
+![Static Badge](https://img.shields.io/badge/CGPA-8.13%2F10-6f42c1?style=for-the-badge&labelColor=1a1a2e)
 ![Static Badge](https://img.shields.io/badge/College-Sri%20Ramakrishna%20Engineering%20College-6f42c1?style=for-the-badge&labelColor=1a1a2e)
 ![Static Badge](https://img.shields.io/badge/Location-Coimbatore%2C%20India-6f42c1?style=for-the-badge&labelColor=1a1a2e&logo=googlemaps&logoColor=white)
 
